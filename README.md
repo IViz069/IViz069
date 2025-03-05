@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Koo</h1>
 <h3 align="center">A passionate bacckend developer from Lima, Peru</h3>
 
-- 🔭 I’m currently working on **BBVA Peru ASO**
+- 🔭 I’m currently working on **Unibanca**
 
 - 🌱 I’m currently learning **Spring Boot, Java EE, Data Analysis**
 
